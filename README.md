@@ -1,7 +1,7 @@
 # Quiz-App
 JavaScript quiz application that tests on basic Web Developmemnt skills. There are total 4 questions all of which are multiple choice questions. Once the user clicks on the submit button, user's answer become final and cannot be altered.
 
-# Tools
+# Tools Used
 1) HTML and CSS
 2) JavaScript
 3) Visual Studio Code
